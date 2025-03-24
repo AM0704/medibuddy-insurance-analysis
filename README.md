@@ -1,2 +1,4 @@
 # medibuddy-insurance-analysis
 Data-driven analysis of MediBuddy insurance charges using EDA, visualizations, and predictive insights for optimized pricing strategies. 
+# project summary
+This project analyzes MediBuddy’s insurance data to identify key factors affecting insurance charges and optimize pricing strategies. The findings reveal that smokers, obese individuals, and older policyholders incur higher insurance costs, while region and dependents also influence charges. Visualizations such as boxplots, scatter plots, and heatmaps confirmed these trends. Based on the insights, MediBuddy can implement risk-based pricing, personalized insurance plans, region-specific premiums, and preventive healthcare programs. Additionally, AI-driven predictive models can help automate premium calculations for better accuracy. These data-driven strategies will enhance customer retention, profitability, and long-term business sustainability.
